@@ -1,17 +1,17 @@
 # Team 2024
 Team 2024
 ## Members
-[Codeforces] ranking updated as of February 9th, 2024
+[Codeforces] ranking updated as of February 26th, 2024
 | Position | Username           | Name               | Title                        | Rating   |
 |----------|--------------------|--------------------|------------------------------|----------|
-| 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1286     |
-| 2        | [AnnieLeonhart]    | Alex Atilio        | $${\color{green}Pupil}$$	    | 1217     |
-| 3        | [hori_josu]        | Josué              | $${\color{gray}Newbie}$$     |  998     |
-| 4        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  967     |
-| 5        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    |  930     |
-| 6        | [Davis22]          | Davis Leonardo     | $${\color{gray}Newbie}$$	    |  889     |
+| 1        | [cat_ta4]          | Hugo Sebastián     | $${\color{green}Pupil}$$     | 1297     |
+| 2        | [AnnieLeonhart]    | Alex Atilio        | $${\color{green}Pupil}$$	    | 1244     |
+| 3        | [erick_alegre]     | Erick              | $${\color{gray}Newbie}$$	    | 1011     |
+| 4        | [hori_josu]        | Josué              | $${\color{gray}Newbie}$$     |  998     |
+| 5        | [jorgektch]        | Jorge Jesús        | $${\color{gray}Newbie}$$	    |  941     |
+| 6        | [Davis22]          | Davis Leonardo     | $${\color{gray}Newbie}$$	    |  892     |
 | 7        | [Luiz2002]         | Luiz Ignacio       | $${\color{gray}Newbie}$$     |  742     |
-| 8        | [LauraNotFound]    | Laura Cecilia      | $${\color{gray}Newbie}$$     |  665     |
+| 8        | [LauraNotFound]    | Laura Cecilia      | $${\color{gray}Newbie}$$     |  670     |
 
 ![](https://geps.dev/progress/10.5)
 
